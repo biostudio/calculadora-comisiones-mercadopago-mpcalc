@@ -27,4 +27,4 @@
 ## Descarga
 Puede descargar el último APK desde Google Play:
 
-<p align="center"><a target="_blank" href="https://play.google.com/store/apps/details?id=ar.com.biostudio.mpcalc"><img src="https://raw.githubusercontent.com/biostudio/ean13validator/main/imgs/google-play-badge.png" height="90"></a></p>
+<p align="center"><a target="_blank" href="https://play.google.com/store/apps/details?id=ar.com.biostudio.mpcalc"><img src="https://raw.githubusercontent.com/biostudio/calculadora-comisiones-mercadopago-mpcalc/main/imgs/google-play-badge.png" height="90"></a></p>
